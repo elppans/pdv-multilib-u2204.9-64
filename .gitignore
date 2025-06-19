@@ -1,0 +1,6 @@
+# Ignorar tudo
+*
+# NÃO ignorar os arquivos especificados
+!/.gitignore
+!/README.md
+
